@@ -5,7 +5,7 @@ UseTab: Always
 
 AllowShortIfStatementsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: None
-ColumnLimit: 80
+ColumnLimit: 79
 
 PointerAlignment: Right
 SpaceBeforeParens: ControlStatements
